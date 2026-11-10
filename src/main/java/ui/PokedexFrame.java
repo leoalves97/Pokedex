@@ -20,7 +20,7 @@ public class PokedexFrame extends JFrame {
     public PokedexFrame() {
         this.apiClient = new PokeApiClient();
 
-        setTitle("Pokédex - Trabalho de Java");
+        setTitle("Pokédex API");
         setSize(400, 550);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);

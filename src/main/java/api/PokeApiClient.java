@@ -31,7 +31,6 @@ public class PokeApiClient {
 
         HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
 
-        // ---> ADICIONE ESTA LINHA PARA INSPECIONAR O RETORNO <---
         System.out.println("RESPOSTA RECEBIDA: \n" + response.body());
 
         // Verifica se a rede interceptou a chamada e devolveu um HTML de firewall
