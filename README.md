@@ -1,7 +1,7 @@
 # Pokédex - Consumo de API REST
 
 ## 📖 Sobre o Projeto
-Aplicação desktop desenvolvida em Java para o trabalho prático de "Consumo de API REST com interface gráfica". A aplicação permite consultar dados em tempo real, transformando respostas JSON em informações úteis numa interface visual.
+Aplicação desktop desenvolvida em Java para o trabalho prático de Consumo de API REST com interface gráfica, para obtenção de notas subjetiva NP2 da cadeira de Programação de Computadores do Curso de Análise e Desenvolvimento de Sistemas do Centro Universitário UniAteneu. A aplicação permite consultar dados em tempo real, transformando respostas JSON em informações úteis numa interface visual.
 
 ## 🔌 API Utilizada
 * **Nome da API:** PokéAPI
@@ -21,11 +21,10 @@ Aplicação desktop desenvolvida em Java para o trabalho prático de "Consumo de
 5. **Nota de Rede:** Caso esteja numa rede corporativa ou académica com restrições de firewall (como o Endian Firewall), ligue o computador temporariamente a uma rede móvel (4G/5G) para garantir que a ligação à PokéAPI não é intercetada.
 
 ## 📸 Capturas de Ecrã
-*(Substitua os textos abaixo pelas imagens reais do seu projeto antes da entrega)*
 
-* [Insira aqui a imagem da interface vazia / ecrã inicial]
+* [Imagem da interface vazia / ecrã inicial]
 ![alt text](Interface_Vazia.png)
-* [Insira aqui a imagem de uma consulta bem-sucedida, ex: pesquisa do Pikachu]
+* [Imagem de uma consulta bem-sucedida, ex: pesquisa do Charmander]
 ![alt text](Consulta_Bem_Sucedida.png)
 ---
-**Autor:** Leonardo Bruno Alves da Silva
+**Autor:** Leonardo Alves
