@@ -8,7 +8,7 @@ public class Main {
         // Desativa a verificação de hostname do HttpClient moderno
         System.setProperty("jdk.internal.httpclient.disableHostnameVerification", "true");
         
-        // Desativa a validação chata de SSL que estava causando o erro
+        // Desativa a validação de SSL
         ignorarCertificadosSSL();
 
         // Inicia a interface gráfica
